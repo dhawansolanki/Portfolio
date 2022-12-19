@@ -12,11 +12,11 @@ const Footer = () => {
       <div className="f-content">
         {/* <span>Zainkeepscode@gmail.com</span> */}
         <span>Made With ❤️ By Dhawan Solanki. | All Rights Reserved.</span>
-        <div className="f-icons">
+        {/* <div className="f-icons">
           <Insta color="white" size={"3rem"} />
           <Facebook color="white" size={"3rem"} />
           <Gitub color="white" size={"3rem"} />
-        </div>
+        </div> */}
       </div>
     </div>
   );

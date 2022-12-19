@@ -17,9 +17,47 @@ const Works = () => {
   // transition
   return (
     <div className="works" id="works">
-     
+       
 
-        <img src={timeline}  width="50%" height="100%" style={{margin:"auto"}}/>
+<ul class="timeline">
+
+	
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">BigBuddy.in</span>
+				<span class="time-wrapper"><span class="time">August '22 - present</span></span>
+			</div>
+			<div class="desc">Full Stack Web Developer</div>
+		</div>
+	</li>
+  
+	
+	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag" style={{width:"100%"}}>IEEE CSBC</span>
+				<span class="time-wrapper"><span class="time">Jan - Dec 22</span></span>
+			</div>
+			<div class="desc">Web Manager | Developer</div>
+		</div>
+	</li>
+
+	
+	<li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">BMSCE, Bangalore</span>
+				<span class="time-wrapper"><span class="time">DEC 21-25</span></span>
+			</div>
+			<div class="desc">Electrical & Electronics Engineering</div>
+		</div>
+	</li>
+  
+</ul>
+
+
+        {/* <img src={timeline}  width="50%" height="100%" style={{margin:"auto"}}/> */}
 
       {/* <div className="w-left"> */}
         {/* <div className="awesome">
