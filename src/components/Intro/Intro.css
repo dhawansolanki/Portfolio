@@ -69,8 +69,9 @@
   left: -3rem;
 }
 .i-right > :nth-child(3) {
-  transform: scale(1.4);
-  left: 12%;
+  transform: scale(0.7);
+  left: 14%;
+  top: -3%;
   height: 85%;
 }
 .i-right > :nth-child(4) {
@@ -112,5 +113,11 @@
   .floating-div:nth-of-type(1){
     /* display: none; */
     top: -7rem !important;;
+  }
+  .i-right > :nth-child(3) {
+    transform: scale(1);
+    left: 50%;
+    top: 10%;
+    height: 85%;
   }
 }
