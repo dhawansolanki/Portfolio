@@ -29,6 +29,11 @@ const navbar = () => {
                 Experience
               </Link>
             </li>
+            <li>
+              <Link onClick={(e)=>{window.location.href="https://blog.dhawansolanki.com"}} spy={true} smooth={true}>
+                Blog
+              </Link>
+            </li>
             {/*  */}
           </ul>
         </div>
