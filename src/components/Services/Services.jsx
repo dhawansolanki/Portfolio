@@ -64,7 +64,7 @@ const Services = () => {
           <Card
             emoji={HeartEmoji}
             heading={"Front-End"}
-            detail={"ReactJs, NextJs, JavaScript, Material-UI, Bootstrap."}
+            detail={"ReactJs, NextJs, VueJs, Material-UI, Bootstrap, TailwindCSS."}
           />
         </motion.div>
         {/* second card */}
