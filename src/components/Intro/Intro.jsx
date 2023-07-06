@@ -62,7 +62,7 @@ const Intro = () => {
       <div className="i-right">
         <img src={Vector1} alt="" />
         <img src={Vector2} alt="" />
-        <img src={DhawanSolanki} alt="Dhawan Solanki" />
+{/*         <img src={DhawanSolanki} alt="Dhawan Solanki" /> */}
         {/* animation */}
         <motion.img
           initial={{ left: "-36%" }}
