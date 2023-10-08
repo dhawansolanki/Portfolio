@@ -25,10 +25,17 @@ const Works = () => {
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">BigBuddy.in</span>
+				<span class="flag">BigbuddyAI</span>
 				<span class="time-wrapper"><span class="time">August '22 - present</span></span>
 			</div>
-			<div class="desc">Full Stack Web Developer</div>
+			<div class="desc">
+      <span class="time">Software Engineer</span><br/>
+      •   Development and Design of Bigbuddy AI platform, driving to  Million $  of valuation using the latest technologies of AWS and Azure Functions, Vue.JS, React.JS, Node.js Django and Python Scripts.
+•   Designed and implemented scalable APIs and background workers for managing first- and third-party video editing tools using Django and Nodejs.
+•   Led the development of an IOT System from connecting IOT Device to AWS Iot Core and Open Source software implementation like OpenRemote and ThingsBoard for engineering, testing, and configuring metrics, alarms, monitors, and dashboards.
+•   Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews.
+•   Actively involved in the early stages of a Startup formation, contributing to strategic decision making and shaping the company's technical direction.
+      </div>
 		</div>
 	</li>
   
@@ -36,10 +43,15 @@ const Works = () => {
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag" style={{width:"100%"}}>IEEE CSBC</span>
-				<span class="time-wrapper"><span class="time">Jan - Dec 22</span></span>
+				<span class="flag" style={{width:"100%"}}>CIIE Developer's Wing</span><br/><br/>
+				<span class="time-wrapper"><span class="time">July'22 - October'22</span></span>
 			</div>
-			<div class="desc">Web Manager | Developer</div>
+			<div class="desc">
+      <span class="time">Full Stack Developer</span><br/>
+        •  Gained proficiency in JavaScript and its libraries, including React, Vue.js, and Node.js, through comprehensive training. 
+•  Created a Full Stack E-commerce web application using React.js, Node.js, and PostgreSQL. Implemented payment integration for seamless online transactions.
+•   Worked as part of a cross-functional team to ideate, design, and implement web solutions for various projects.
+•   Contributed to the successful completion of multiple web projects, fostering a collaborative and productive work environment.</div>
 		</div>
 	</li>
 
@@ -47,10 +59,18 @@ const Works = () => {
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">BMSCE, Bangalore</span>
-				<span class="time-wrapper"><span class="time">DEC 21-25</span></span>
+				<span class="flag">IEEE Computer Society BC</span>
+        <br/>
+        <br/>
+				<span class="time-wrapper"><span class="time">January'22 - December'22</span></span>
 			</div>
-			<div class="desc">Electrical & Electronics Engineering</div>
+			<div class="desc">
+      <span class="time">Web Developer</span><br/>
+      •   Led Web Developer role at IEEE Computer Society Bangalore Chapter. Managed and created new pages for the organization's website  using HTML, CSS, and PHP and Wordpress. Successfully implemented updates and improvements to enhance the website's functionality and user experience.
+•   Designed and Created a website for the International Conference for Data Decisions and Systems 2022 using HTML, CSS,  Bootstrap, and deployed and maintained it throughout the conference.
+•   Reported Directly to the Chairperson, providing regular updates on website development and managing web-related tasks.
+Ensured effective communication and coordination, leading to seamless execution of web projects and achieving organizational goals.
+      </div>
 		</div>
 	</li>
   

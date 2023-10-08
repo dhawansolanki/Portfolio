@@ -32,31 +32,27 @@ const Intro = () => {
           <span>
           </span>
           <span>
-          I love to work on web application using technologies like React, Nodejs, MongoDB and GraphQL.
-          {/* have 2+ years of experience building and desgining Websites.  */}
+          A passionate 20-year-old Software Engineer living my Dreams in city of Bangalore. Persuing Electrical & Electronics Engineering from B.M.S Collge of Engineering, Bangalore.
           <br/>
-          Persuing Electrical & Electronics Engineering from B.M.S Collge of Engineering, Bangalore.
+          Join me on my exciting journey as I explore the world of technology, share my coding insights, and weave captivating stories and recently, I've embarked on a new venture by creating videos on <a style={{textDecoration:"none"}} href="https://youtube.com/@dhawansolanki" target="_blank">YouTube</a>
+          <br/>
+          My Tech Stack includes VueJs, ReactJs, NodeJs, Python & much more.
           <br/><br/>
-          
-          Currently, Working at Bigbuddy.in 
-          
+          Building <a style={{textDecoration:'none'}} href="https://bigbuddyai.com" target="_blank">@BigbuddyAI</a>
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
           <button className="button i-button">Hire me</button>
         </Link>
         {/* social icons */}
-        <div className="i-icons">
-        <a target="_blank" href="https://github.com/dhawansolanki">
-          <img src={Github} alt="" />
-        </a>
-        <a target="_blank" href="https://www.linkedin.com/in/dhawansolanki/">
-          <img src={LinkedIn} alt="" />
-          </a>
-          <a target="_blank" href="https://www.instagram.com/dhawansolanki_">
-          <img src={Instagram} alt="" />
-          </a>
-        </div>
+        <div class="social-menu">
+        <ul>
+            <li><a href="https://github.com/dhawansolanki" target="blank"><i class="fab fa-github"></i></a></li>
+            <li><a href="https://www.instagram.com/dhawansolanki_/" target="blank"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/dhawansolanki" target="blank"><i class="fab fa-linkedin-in"></i></a></li>
+            <li><a href="https://youtube.com/@DhawanSolanki" target="blank"><i class="fab fa-youtube"></i></a></li>
+        </ul>
+    </div>
       </div>
       {/* right image side */}
       <div className="i-right">
