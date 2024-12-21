@@ -38,7 +38,7 @@ const Intro = () => {
           <br/>
           My Tech Stack includes VueJs, ReactJs, NodeJs, Python & much more.
           <br/><br/>
-          Building <a style={{textDecoration:'none'}} href="https://magicroll.ai.com" target="_blank">@Magicroll.ai</a>
+          Building <a style={{textDecoration:'none'}} href="https://magicroll.ai" target="_blank">@Magicroll.ai</a>
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
