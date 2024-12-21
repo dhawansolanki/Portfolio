@@ -32,13 +32,13 @@ const Intro = () => {
           <span>
           </span>
           <span>
-          A passionate 20-year-old Software Engineer living my Dreams in city of Bangalore. Persuing Electrical & Electronics Engineering from B.M.S Collge of Engineering, Bangalore.
+          A passionate 21-year-old Software Engineer living my Dreams in city of Bangalore.
           <br/>
           Join me on my exciting journey as I explore the world of technology, share my coding insights, and weave captivating stories and recently, I've embarked on a new venture by creating videos on <a style={{textDecoration:"none"}} href="https://youtube.com/@dhawansolanki" target="_blank">YouTube</a>
           <br/>
           My Tech Stack includes VueJs, ReactJs, NodeJs, Python & much more.
           <br/><br/>
-          Building <a style={{textDecoration:'none'}} href="https://bigbuddyai.com" target="_blank">@BigbuddyAI</a>
+          Building <a style={{textDecoration:'none'}} href="https://magicroll.ai.com" target="_blank">@Magicroll.ai</a>
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
